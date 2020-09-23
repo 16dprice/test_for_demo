@@ -1,2 +1,4 @@
 my new text file
 this is on my DJ branch
+
+another thing added to this file
